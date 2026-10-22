@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "service": "GigCrowd API",
+  "scheduler": {
+    "enabled": true,
+    "running": true,
+    "in_progress": false,
+    "interval_minutes": 60,
+    "next_run_at": "2026-10-22T01:00:10.535810+00:00",
+    "lifecycle": {
+      "enabled": false,
+      "batch_size": 50,
+      "lookback_hours": 48,
+      "last_run": null
+    },
+    "artist_sync": {
+      "enabled": true,
+      "interval_minutes": 60,
+      "next_run_at": "2026-10-22T01:00:10.535987+00:00",
+      "run_on_startup": false,
+      "config": {
+        "batch_size": 10,
+        "delay_seconds": 1.5,
+        "provider": "songkick",
+        "force": false
+      },
+      "last_run": null
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "provider": "songkick",
+  "provider_artist_id": "Artist2274326",
+  "name": "Charli XCX",
+  "followers": null,
+  "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+  "genres": [],
+  "popularity": 31,
+  "verified": true,
+  "is_imported": true,
+  "slug": "charli-xcx",
+  "id": "6ad6f3b2444d06e843b64470",
+  "sync": null
+}

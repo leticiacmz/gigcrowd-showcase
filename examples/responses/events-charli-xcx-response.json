@@ -1,0 +1,7510 @@
+{
+  "events": [
+    {
+      "id": "6ad6f3e8444d06e843b64472",
+      "title": "Charli XCX @ Desert Diamond Arena",
+      "starts_at": "2026-10-22T03:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Glendale",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "desert-diamond-arena",
+        "name": "Desert Diamond Arena",
+        "city": "Glendale",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b64474",
+      "title": "Charli XCX @ MGM Grand Garden Arena",
+      "starts_at": "2026-10-24T01:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Las Vegas",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "mgm-grand-garden-arena",
+        "name": "MGM Grand Garden Arena",
+        "city": "Las Vegas",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "underscores-us",
+          "name": "underscores (US)",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad93bac468108f0db41184e",
+      "title": "Black Label Society Macon City Auditorium",
+      "starts_at": "2026-11-27T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "macon-city-auditorium",
+        "name": "Macon City Auditorium",
+        "city": "",
+        "country": ""
+      },
+      "artists": [
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad93bac468108f0db411852",
+      "title": "Pierre Bourne Georgia Theatre",
+      "starts_at": "2026-12-02T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "georgia-theatre",
+        "name": "Georgia Theatre",
+        "city": "",
+        "country": ""
+      },
+      "artists": [
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "pierre-bourne",
+          "name": "Pierre Bourne",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "rock",
+            "indie_alternative",
+            "latin",
+            "funk_soul",
+            "folk_blues",
+            "jazz",
+            "r_and_b",
+            "reggae",
+            "comedy",
+            "metal"
+          ]
+        },
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3eb444d06e843b644c1",
+      "title": "TesseracT Buckhead Theatre",
+      "starts_at": "2027-01-15T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "buckhead-theatre",
+        "name": "Buckhead Theatre",
+        "city": "Atlanta",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "zara-larsson",
+          "name": "Zara Larsson",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/7245764/card_avatar",
+          "genres": [
+            "hip_hop",
+            "electronic",
+            "pop"
+          ]
+        },
+        {
+          "slug": "demi-lovato",
+          "name": "Demi Lovato",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/976211/card_avatar",
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "funk_soul",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "lorde",
+          "name": "Lorde",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/6715369/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "arctic-monkeys",
+          "name": "Arctic Monkeys",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/520117/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "hip_hop",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "country",
+            "jazz",
+            "funk_soul",
+            "r_and_b",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3eb444d06e843b644c2",
+      "title": "Wolves In the Throne Room Variety Playhouse",
+      "starts_at": "2027-01-30T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "variety-playhouse",
+        "name": "Variety Playhouse",
+        "city": "",
+        "country": ""
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "zara-larsson",
+          "name": "Zara Larsson",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/7245764/card_avatar",
+          "genres": [
+            "hip_hop",
+            "electronic",
+            "pop"
+          ]
+        },
+        {
+          "slug": "demi-lovato",
+          "name": "Demi Lovato",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/976211/card_avatar",
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "funk_soul",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "lorde",
+          "name": "Lorde",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/6715369/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "arctic-monkeys",
+          "name": "Arctic Monkeys",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/520117/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "hip_hop",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "country",
+            "jazz",
+            "funk_soul",
+            "r_and_b",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad93bac468108f0db41184b",
+      "title": "Drive-By Truckers 40 Watt Club",
+      "starts_at": "2027-02-10T19:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "40-watt-club",
+        "name": "40 Watt Club",
+        "city": "Athens",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad93bae468108f0db411854",
+      "title": "FLO Coca-Cola Roxy",
+      "starts_at": "2027-02-10T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "coca-cola-roxy",
+        "name": "Coca-Cola Roxy",
+        "city": "Atlanta",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "flo",
+          "name": "FLO",
+          "image": null,
+          "genres": [
+            "hip_hop",
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "funk_soul",
+            "metal",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b64476",
+      "title": "Charli XCX @ 3Arena",
+      "starts_at": "2027-02-13T18:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Dublin",
+        "country": "Ireland"
+      },
+      "venue": {
+        "slug": "3arena",
+        "name": "3Arena",
+        "city": "Dublin",
+        "country": "Ireland"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "audrey-hobert",
+          "name": "Audrey Hobert",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad93bac468108f0db411850",
+      "title": "Kameron Marlowe Tabernacle Presented By Ithink Financial",
+      "starts_at": "2027-02-13T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "tabernacle-presented-by-ithink-financial",
+        "name": "Tabernacle Presented By Ithink Financial",
+        "city": "",
+        "country": ""
+      },
+      "artists": [
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b64478",
+      "title": "Charli XCX @ OVO Hydro",
+      "starts_at": "2027-02-15T18:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Glasgow",
+        "country": "UK"
+      },
+      "venue": {
+        "slug": "ovo-hydro",
+        "name": "OVO Hydro",
+        "city": "Glasgow",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "audrey-hobert",
+          "name": "Audrey Hobert",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b6447a",
+      "title": "Charli XCX @ Co-op Live",
+      "starts_at": "2027-02-17T18:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Manchester",
+        "country": "UK"
+      },
+      "venue": {
+        "slug": "co-op-live",
+        "name": "Co-op Live",
+        "city": "Manchester",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "audrey-hobert",
+          "name": "Audrey Hobert",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b6447c",
+      "title": "Charli XCX @ The O2",
+      "starts_at": "2027-02-19T18:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Greenwich",
+        "country": "UK"
+      },
+      "venue": {
+        "slug": "the-o2",
+        "name": "The O2",
+        "city": "Greenwich",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "audrey-hobert",
+          "name": "Audrey Hobert",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b6447d",
+      "title": "Charli XCX @ The O2",
+      "starts_at": "2027-02-20T18:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Greenwich",
+        "country": "UK"
+      },
+      "venue": {
+        "slug": "the-o2",
+        "name": "The O2",
+        "city": "Greenwich",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "audrey-hobert",
+          "name": "Audrey Hobert",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad93bac468108f0db41184c",
+      "title": "Little Stranger Terminal West",
+      "starts_at": "2027-02-20T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "terminal-west",
+        "name": "Terminal West",
+        "city": "Atlanta",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "little-stranger",
+          "name": "Little Stranger",
+          "image": null,
+          "genres": [
+            "rock",
+            "metal",
+            "indie_alternative",
+            "funk_soul",
+            "pop",
+            "hip_hop",
+            "electronic",
+            "folk_blues",
+            "reggae",
+            "r_and_b",
+            "jazz",
+            "latin",
+            "country",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b6447f",
+      "title": "Charli XCX @ Ziggo Dome",
+      "starts_at": "2027-02-22T19:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Amsterdam",
+        "country": "Netherlands"
+      },
+      "venue": {
+        "slug": "ziggo-dome",
+        "name": "Ziggo Dome",
+        "city": "Amsterdam",
+        "country": "Netherlands"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "audrey-hobert",
+          "name": "Audrey Hobert",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b64481",
+      "title": "Charli XCX @ Accor Arena",
+      "starts_at": "2027-02-24T18:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Paris",
+        "country": "France"
+      },
+      "venue": {
+        "slug": "accor-arena",
+        "name": "Accor Arena",
+        "city": "Paris",
+        "country": "France"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3eb444d06e843b644bf",
+      "title": "Christian Kuria Terminal West",
+      "starts_at": "2027-02-27T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "terminal-west",
+        "name": "Terminal West",
+        "city": "Atlanta",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "zara-larsson",
+          "name": "Zara Larsson",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/7245764/card_avatar",
+          "genres": [
+            "hip_hop",
+            "electronic",
+            "pop"
+          ]
+        },
+        {
+          "slug": "demi-lovato",
+          "name": "Demi Lovato",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/976211/card_avatar",
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "funk_soul",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "lorde",
+          "name": "Lorde",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/6715369/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "arctic-monkeys",
+          "name": "Arctic Monkeys",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/520117/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "hip_hop",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "country",
+            "jazz",
+            "funk_soul",
+            "r_and_b",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e8444d06e843b64483",
+      "title": "Lollapalooza 2027 @ Hipódromo de San Isidro",
+      "starts_at": "2027-03-12T00:00:00Z",
+      "ends_at": "2027-03-14T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": {
+        "city": "San Isidro",
+        "country": "Argentina"
+      },
+      "venue": {
+        "slug": "hipodromo-de-san-isidro",
+        "name": "Hipódromo de San Isidro",
+        "city": "San Isidro",
+        "country": "Argentina"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "amaia",
+          "name": "Amaia",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "country",
+            "metal",
+            "jazz",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "angine-de-poitrine",
+          "name": "Angine de Poitrine",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "ara",
+          "name": "Ara",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "ayybo",
+          "name": "AYYBO",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "boy-harsher",
+          "name": "Boy Harsher",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "boys-noize",
+          "name": "Boys Noize",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "broke-carrey",
+          "name": "Broke Carrey",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "carlita",
+          "name": "Carlita",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "dandara",
+          "name": "Dandara",
+          "image": null,
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "funk_soul",
+            "latin",
+            "folk_blues",
+            "metal",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "daniela-spalla",
+          "name": "Daniela Spalla",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "david-guetta",
+          "name": "David Guetta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "die-spitz",
+          "name": "Die Spitz",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "dillom",
+          "name": "Dillom",
+          "image": null,
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "funk_soul",
+            "latin",
+            "folk_blues",
+            "metal",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "dominic-fike",
+          "name": "Dominic Fike",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "rock",
+            "indie_alternative",
+            "latin",
+            "funk_soul",
+            "folk_blues",
+            "jazz",
+            "r_and_b",
+            "reggae",
+            "comedy",
+            "metal"
+          ]
+        },
+        {
+          "slug": "ela-taubert",
+          "name": "ELA TAUBERT",
+          "image": null,
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "funk_soul",
+            "latin",
+            "folk_blues",
+            "metal",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "fabrizio",
+          "name": "Fabrizio",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "folgar",
+          "name": "Folgar",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "fontaines-d-c",
+          "name": "Fontaines D.C.",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "four-tet",
+          "name": "Four Tet",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "francisca-valenzuela",
+          "name": "Francisca Valenzuela",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "geese",
+          "name": "Geese",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "juan-hansen",
+          "name": "Juan Hansen",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "juana-rozas",
+          "name": "Juana Rozas",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "julia-wolf",
+          "name": "Julia Wolf",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kaos",
+          "name": "Kaos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kchiporros",
+          "name": "Kchiporros",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "la-ramona",
+          "name": "la ramona",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "las-sombras",
+          "name": "Las Sombras",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "leon-bridges",
+          "name": "Leon Bridges",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "lola-young",
+          "name": "Lola Young",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "lolu-menayed",
+          "name": "Lolu Menayed",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "malcolm-todd",
+          "name": "Malcolm Todd",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "marlon-hoffstadt",
+          "name": "Marlon Hoffstadt",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "mateo-dufour",
+          "name": "Mateo Dufour",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "midnight-generation",
+          "name": "Midnight Generation",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "mind-enterprises",
+          "name": "Mind Enterprises",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "natalia-lacunza",
+          "name": "Natalia Lacunza",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "ninajirachi",
+          "name": "Ninajirachi",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "palo",
+          "name": "PALO!",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "princesa-alba",
+          "name": "Princesa Alba",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "queens-of-the-stone-age",
+          "name": "Queens of the Stone Age",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "metal",
+            "folk_blues",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "rawayana",
+          "name": "Rawayana",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "raye",
+          "name": "Raye",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "rivo",
+          "name": "Rivo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "sammy-virji",
+          "name": "Sammy Virji",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy",
+            "folk_blues",
+            "latin",
+            "classical"
+          ]
+        },
+        {
+          "slug": "santos-bravos",
+          "name": "Santos Bravos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "slayyyter",
+          "name": "Slayyyter",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "snow-strippers",
+          "name": "Snow Strippers",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "sofia-mora",
+          "name": "Sofia Mora",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "sombr",
+          "name": "sombr",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "the-avalanches",
+          "name": "The Avalanches",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "the-killers",
+          "name": "The Killers",
+          "image": null,
+          "genres": []
+        },
+        {
+          "slug": "the-neighbourhood",
+          "name": "The Neighbourhood",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "pop",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "the-prodigy",
+          "name": "The Prodigy",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "tiga",
+          "name": "Tiga",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "pop",
+            "comedy",
+            "folk_blues"
+          ]
+        },
+        {
+          "slug": "tini",
+          "name": "TINI",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "tomora",
+          "name": "Tomora",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "travis-scott",
+          "name": "Travis Scott",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "un-poco-de-ruido",
+          "name": "Un Poco de Ruido",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "usted-senalemelo",
+          "name": "Usted Señalemelo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "varese",
+          "name": "Varese",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "violet-grohl",
+          "name": "Violet Grohl",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "yorghaki",
+          "name": "Yorghaki",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Lollapalooza 2027 @ Hipódromo de San Isidro",
+        "series_id": "1235"
+      }
+    },
+    {
+      "id": "6ad6f3e8444d06e843b64486",
+      "title": "Lollapalooza 2027 @ Parque O'Higgins",
+      "starts_at": "2027-03-12T00:00:00Z",
+      "ends_at": "2027-03-14T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": {
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "venue": {
+        "slug": "parque-o-higgins",
+        "name": "Parque O'Higgins",
+        "city": "Santiago",
+        "country": "Chile"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "alain-johannes",
+          "name": "Alain Johannes",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "alex-anwandter",
+          "name": "Alex Anwandter",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "amaia",
+          "name": "Amaia",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "country",
+            "metal",
+            "jazz",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "ana-tijoux",
+          "name": "Ana Tijoux",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "angela-torres",
+          "name": "Angela Torres",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "angine-de-poitrine",
+          "name": "Angine de Poitrine",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "boy-harsher",
+          "name": "Boy Harsher",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "boys-noize",
+          "name": "Boys Noize",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "carlita",
+          "name": "Carlita",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "congreso",
+          "name": "Congreso",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "cuarteto-de-nos",
+          "name": "Cuarteto de nos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "david-guetta",
+          "name": "David Guetta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "die-spitz",
+          "name": "Die Spitz",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "dinamarca",
+          "name": "Dinamarca",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "dj-raff",
+          "name": "DJ Raff",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "dominic-fike",
+          "name": "Dominic Fike",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "rock",
+            "indie_alternative",
+            "latin",
+            "funk_soul",
+            "folk_blues",
+            "jazz",
+            "r_and_b",
+            "reggae",
+            "comedy",
+            "metal"
+          ]
+        },
+        {
+          "slug": "el-cuarteto-de-nos",
+          "name": "El Cuarteto de Nos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "ela-taubert",
+          "name": "ELA TAUBERT",
+          "image": null,
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "funk_soul",
+            "latin",
+            "folk_blues",
+            "metal",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "estoy-bien",
+          "name": "Estoy Bien",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "fontaines-d-c",
+          "name": "Fontaines D.C.",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "four-tet",
+          "name": "Four Tet",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "francisca-valenzuela",
+          "name": "Francisca Valenzuela",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "geese",
+          "name": "Geese",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "gondwana",
+          "name": "Gondwana",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "isa-tkm",
+          "name": "Isa TKM",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "javiera-electra",
+          "name": "Javiera Electra",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "javiera-mena",
+          "name": "Javiera Mena",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "julia-wolf",
+          "name": "Julia Wolf",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kaos",
+          "name": "Kaos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "la-ramona",
+          "name": "la ramona",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "leo-rey",
+          "name": "Leo Rey",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "leon-bridges",
+          "name": "Leon Bridges",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "lola-young",
+          "name": "Lola Young",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "lorna",
+          "name": "Lorna",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "los-tetas",
+          "name": "Los Tetas",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "lucky-brown",
+          "name": "Lucky Brown",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "malcolm-todd",
+          "name": "Malcolm Todd",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "marlon-hoffstadt",
+          "name": "Marlon Hoffstadt",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "midnight-generation",
+          "name": "Midnight Generation",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "mind-enterprises",
+          "name": "Mind Enterprises",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "natalia-lacunza",
+          "name": "Natalia Lacunza",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "ninajirachi",
+          "name": "Ninajirachi",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "olivia-garcia",
+          "name": "Olivia García",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "pedro-capo",
+          "name": "Pedro Capo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "princesa-alba",
+          "name": "Princesa Alba",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "queens-of-the-stone-age",
+          "name": "Queens of the Stone Age",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "metal",
+            "folk_blues",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "quique-neira",
+          "name": "Quique Neira",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "rawayana",
+          "name": "Rawayana",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "raye",
+          "name": "Raye",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "sammy-virji",
+          "name": "Sammy Virji",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy",
+            "folk_blues",
+            "latin",
+            "classical"
+          ]
+        },
+        {
+          "slug": "santaferia",
+          "name": "Santaferia",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "santos-bravos",
+          "name": "Santos Bravos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "saramalacara",
+          "name": "Saramalacara",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "sfdk",
+          "name": "SFDK",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "slayyyter",
+          "name": "Slayyyter",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "snow-strippers",
+          "name": "Snow Strippers",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "sombr",
+          "name": "sombr",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "the-killers",
+          "name": "The Killers",
+          "image": null,
+          "genres": []
+        },
+        {
+          "slug": "the-neighbourhood",
+          "name": "The Neighbourhood",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "pop",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "the-prodigy",
+          "name": "The Prodigy",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "tiga",
+          "name": "Tiga",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "pop",
+            "comedy",
+            "folk_blues"
+          ]
+        },
+        {
+          "slug": "tomora",
+          "name": "Tomora",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "travis-scott",
+          "name": "Travis Scott",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "violet-grohl",
+          "name": "Violet Grohl",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "we-are-the-grand",
+          "name": "We Are the Grand",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "yellow-fever",
+          "name": "Yellow Fever",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "yellowfever",
+          "name": "YellowFever",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "yorghaki",
+          "name": "Yorghaki",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Lollapalooza 2027 @ Parque O'Higgins",
+        "series_id": "1235"
+      }
+    },
+    {
+      "id": "6ad6f3e9444d06e843b6448c",
+      "title": "Festival Estereo Picnic 2027 @ Parque Metropolitano Simón Bolívar",
+      "starts_at": "2027-03-19T00:00:00Z",
+      "ends_at": "2027-03-21T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": {
+        "city": "Bogota",
+        "country": "Colombia"
+      },
+      "venue": {
+        "slug": "parque-metropolitano-simon-bolivar",
+        "name": "Parque Metropolitano Simón Bolívar",
+        "city": "Bogota",
+        "country": "Colombia"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "amaia",
+          "name": "Amaia",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "country",
+            "metal",
+            "jazz",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "amanda-mussi",
+          "name": "Amanda Mussi",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "amelie-lens",
+          "name": "Amelie Lens",
+          "image": null,
+          "genres": [
+            "pop",
+            "hip_hop",
+            "electronic",
+            "rock",
+            "funk_soul",
+            "folk_blues",
+            "latin",
+            "r_and_b",
+            "indie_alternative",
+            "metal"
+          ]
+        },
+        {
+          "slug": "angine-de-poitrine",
+          "name": "Angine de Poitrine",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "annasofia",
+          "name": "Annasofia",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "anne",
+          "name": "Anne",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "arcangel",
+          "name": "Arcangel",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "astr",
+          "name": "ASTRØ",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "austin-tv",
+          "name": "Austin TV",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "avenged-sevenfold",
+          "name": "Avenged Sevenfold",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "bicep",
+          "name": "Bicep",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "metal",
+            "folk_blues",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "boy-harsher",
+          "name": "Boy Harsher",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "boys-noize",
+          "name": "Boys Noize",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "chuwi",
+          "name": "Chuwi",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "conjunto-media-luna",
+          "name": "Conjunto Media Luna",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "david-guetta",
+          "name": "David Guetta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "depresion-sonora",
+          "name": "Depresión Sonora",
+          "image": null,
+          "genres": [
+            "electronic",
+            "indie_alternative",
+            "pop",
+            "hip_hop",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "country",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "die-spitz",
+          "name": "Die Spitz",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "el-mato-a-un-policia-motorizado",
+          "name": "El Mató a un Policía Motorizado",
+          "image": null,
+          "genres": [
+            "electronic",
+            "indie_alternative",
+            "pop",
+            "hip_hop",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "country",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "encarta-98",
+          "name": "Encarta 98",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "estamos-perdidos",
+          "name": "Estamos Perdidos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "fontaines-d-c",
+          "name": "Fontaines D.C.",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "four-tet",
+          "name": "Four Tet",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "gotshell",
+          "name": "Gotshell",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "kasabian",
+          "name": "Kasabian",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "khruangbin",
+          "name": "Khruangbin",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "jazz",
+            "reggae",
+            "hip_hop",
+            "r_and_b"
+          ]
+        },
+        {
+          "slug": "la-ramona",
+          "name": "la ramona",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "lechuga-zafiro",
+          "name": "Lechuga Zafiro",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "leon-bridges",
+          "name": "Leon Bridges",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "lila-sky",
+          "name": "lila sky",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "lola-indigo",
+          "name": "Lola Indigo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "lola-young",
+          "name": "Lola Young",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "los-entranas",
+          "name": "Los entrañas",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "luz-no-estrella",
+          "name": "Luz No Estrella",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "malcolm-todd",
+          "name": "Malcolm Todd",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "maria-manuela",
+          "name": "Maria Manuela",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "marlon-hoffstadt",
+          "name": "Marlon Hoffstadt",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "midnight-generation",
+          "name": "Midnight Generation",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "milo-j",
+          "name": "Milo J",
+          "image": null,
+          "genres": [
+            "electronic",
+            "indie_alternative",
+            "pop",
+            "hip_hop",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "country",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "mind-enterprises",
+          "name": "Mind Enterprises",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "mitu",
+          "name": "Mitú",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "nicola-cruz",
+          "name": "Nicola Cruz",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "country",
+            "metal",
+            "jazz",
+            "reggae"
+          ]
+        },
+        {
+          "slug": "nina-kraviz",
+          "name": "Nina Kraviz",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "ninajirachi",
+          "name": "Ninajirachi",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "rawayana",
+          "name": "Rawayana",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "raye",
+          "name": "Raye",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "sammy-virji",
+          "name": "Sammy Virji",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy",
+            "folk_blues",
+            "latin",
+            "classical"
+          ]
+        },
+        {
+          "slug": "siete-catorce",
+          "name": "Siete Catorce",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "slayyyter",
+          "name": "Slayyyter",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "snow-strippers",
+          "name": "Snow Strippers",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "sombr",
+          "name": "sombr",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "the-avalanches",
+          "name": "The Avalanches",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "the-neighbourhood",
+          "name": "The Neighbourhood",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "pop",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "the-prodigy",
+          "name": "The Prodigy",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "the-war-on-drugs",
+          "name": "The War on Drugs",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "tiga",
+          "name": "Tiga",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "pop",
+            "comedy",
+            "folk_blues"
+          ]
+        },
+        {
+          "slug": "tomora",
+          "name": "Tomora",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "travis-scott",
+          "name": "Travis Scott",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "verraco",
+          "name": "Verraco",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "vic-deal",
+          "name": "Vic Deal",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "violet-grohl",
+          "name": "Violet Grohl",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "winona-riders",
+          "name": "Winona Riders",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "young-cister",
+          "name": "Young Cister",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "zuco-omg",
+          "name": "ZUCO OMG",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "rock",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Festival Estereo Picnic 2027 @ Parque Metropolitano Simón Bolívar",
+        "series_id": "387188"
+      }
+    },
+    {
+      "id": "6ad6f3e9444d06e843b64489",
+      "title": "Lollapalooza 2027",
+      "starts_at": "2027-03-19T14:00:00Z",
+      "ends_at": "2027-03-21T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": {
+        "city": "São Paulo",
+        "country": "Brazil",
+        "latitude": -23.7037893,
+        "longitude": -46.7009188
+      },
+      "venue": {
+        "slug": "autodromo-jose-carlos-pace-interlagos",
+        "name": "Autódromo José Carlos Pace (Interlagos)",
+        "city": "São Paulo",
+        "country": "Brazil"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "acid-asian",
+          "name": "Acid Asian",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "amaro",
+          "name": "Amaro",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "angine-de-poitrine",
+          "name": "Angine de Poitrine",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "bebe",
+          "name": "Bebe",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "boy-harsher",
+          "name": "Boy Harsher",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "boys-noize",
+          "name": "Boys Noize",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "brime",
+          "name": "Brime!",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "budang",
+          "name": "Budang",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "carlita",
+          "name": "Carlita",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "cat-dealers",
+          "name": "Cat Dealers",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "catica",
+          "name": "Catica",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "cica-moreira",
+          "name": "CIÇA MOREIRA",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "clementaum",
+          "name": "Clementaum",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "criolo",
+          "name": "Criolo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "david-guetta",
+          "name": "David Guetta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "deafkids",
+          "name": "DEAFKIDS",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "die-spitz",
+          "name": "Die Spitz",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "dino",
+          "name": "Dino",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "dj-ramemes-o-destruidor-do-funk",
+          "name": "Dj RaMeMes (O DESTRUIDOR DO FUNK)",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "dominic-fike",
+          "name": "Dominic Fike",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "hip_hop",
+            "rock",
+            "indie_alternative",
+            "latin",
+            "funk_soul",
+            "folk_blues",
+            "jazz",
+            "r_and_b",
+            "reggae",
+            "comedy",
+            "metal"
+          ]
+        },
+        {
+          "slug": "el-efecto",
+          "name": "El Efecto",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "fernanda-martins",
+          "name": "Fernanda Martins",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "fezzo",
+          "name": "FEZZO",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "fontaines-d-c",
+          "name": "Fontaines D.C.",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "four-tet",
+          "name": "Four Tet",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "geese",
+          "name": "Geese",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "grag-queen",
+          "name": "Grag Queen",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "joaquim",
+          "name": "Joaquim",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "julia-wolf",
+          "name": "Julia Wolf",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "leon-bridges",
+          "name": "Leon Bridges",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "lola-young",
+          "name": "Lola Young",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "luana-flores",
+          "name": "Luana Flores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "make-u-sweat",
+          "name": "Make U Sweat",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "malcolm-todd",
+          "name": "Malcolm Todd",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "folk_blues",
+            "hip_hop",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "marina-diniz",
+          "name": "Marina Diniz",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "marlon-hoffstadt",
+          "name": "Marlon Hoffstadt",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "mary-olivetti",
+          "name": "Mary Olivetti",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "midnight-generation",
+          "name": "Midnight Generation",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "mike-d-us",
+          "name": "Mike D (US)",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "mind-enterprises",
+          "name": "Mind Enterprises",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "mochakk",
+          "name": "Mochakk",
+          "image": null,
+          "genres": [
+            "hip_hop",
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "funk_soul",
+            "metal",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "nacao-zumbi",
+          "name": "Nação Zumbi",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "ninajirachi",
+          "name": "Ninajirachi",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "nubia",
+          "name": "Nubia",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "psilosamples",
+          "name": "Psilosamples",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "queens-of-the-stone-age",
+          "name": "Queens of the Stone Age",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "metal",
+            "folk_blues",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "rakta",
+          "name": "Rakta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "rawayana",
+          "name": "Rawayana",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "raye",
+          "name": "Raye",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "rodrigo-amarante",
+          "name": "Rodrigo Amarante",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "sammy-virji",
+          "name": "Sammy Virji",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy",
+            "folk_blues",
+            "latin",
+            "classical"
+          ]
+        },
+        {
+          "slug": "santos-bravos",
+          "name": "Santos Bravos",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "seu-pereira-e-coletivo-401",
+          "name": "Seu Pereira e Coletivo 401",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul",
+            "latin"
+          ]
+        },
+        {
+          "slug": "slayyyter",
+          "name": "Slayyyter",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "snow-strippers",
+          "name": "Snow Strippers",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "sombr",
+          "name": "sombr",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "the-avalanches",
+          "name": "The Avalanches",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "the-killers",
+          "name": "The Killers",
+          "image": null,
+          "genres": []
+        },
+        {
+          "slug": "the-neighbourhood",
+          "name": "The Neighbourhood",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "pop",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "the-prodigy",
+          "name": "The Prodigy",
+          "image": null,
+          "genres": [
+            "pop",
+            "rock",
+            "indie_alternative",
+            "electronic",
+            "metal",
+            "hip_hop",
+            "r_and_b",
+            "funk_soul",
+            "reggae",
+            "folk_blues",
+            "country",
+            "jazz",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "tomora",
+          "name": "Tomora",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "travis-scott",
+          "name": "Travis Scott",
+          "image": null,
+          "genres": [
+            "pop",
+            "electronic",
+            "rock",
+            "hip_hop",
+            "indie_alternative",
+            "r_and_b",
+            "funk_soul",
+            "jazz",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "violet-grohl",
+          "name": "Violet Grohl",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Lollapalooza 2027",
+        "series_id": "1235"
+      }
+    },
+    {
+      "id": "6ad6f3eb444d06e843b644c0",
+      "title": "cleopatrick The Masquerade - Hell",
+      "starts_at": "2027-04-29T19:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "the-masquerade-hell",
+        "name": "The Masquerade - Hell",
+        "city": "Atlanta",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "cage-the-elephant",
+          "name": "Cage the Elephant",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/580899/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "indie_alternative",
+            "rock",
+            "hip_hop",
+            "folk_blues",
+            "metal",
+            "r_and_b",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "zara-larsson",
+          "name": "Zara Larsson",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/7245764/card_avatar",
+          "genres": [
+            "hip_hop",
+            "electronic",
+            "pop"
+          ]
+        },
+        {
+          "slug": "demi-lovato",
+          "name": "Demi Lovato",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/976211/card_avatar",
+          "genres": [
+            "hip_hop",
+            "pop",
+            "r_and_b",
+            "funk_soul",
+            "rock",
+            "electronic"
+          ]
+        },
+        {
+          "slug": "lorde",
+          "name": "Lorde",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/6715369/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "arctic-monkeys",
+          "name": "Arctic Monkeys",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/520117/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "hip_hop",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "country",
+            "jazz",
+            "funk_soul",
+            "r_and_b",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "cleopatrick",
+          "name": "cleopatrick",
+          "image": null,
+          "genres": [
+            "pop",
+            "hip_hop",
+            "indie_alternative",
+            "electronic",
+            "rock",
+            "r_and_b",
+            "funk_soul",
+            "metal",
+            "folk_blues",
+            "reggae",
+            "comedy"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e9444d06e843b6448f",
+      "title": "Charli XCX @ Kia Forum",
+      "starts_at": "2026-10-19T03:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Inglewood",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "kia-forum",
+        "name": "Kia Forum",
+        "city": "Inglewood",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e9444d06e843b64490",
+      "title": "Charli XCX @ Kia Forum",
+      "starts_at": "2026-10-18T03:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Inglewood",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "kia-forum",
+        "name": "Kia Forum",
+        "city": "Inglewood",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e9444d06e843b64492",
+      "title": "Charli XCX @ Viejas Arena at Aztec Bowl San Diego State University",
+      "starts_at": "2026-10-15T02:50:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "San Diego",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "viejas-arena-at-aztec-bowl-san-diego-state-university",
+        "name": "Viejas Arena at Aztec Bowl San Diego State University",
+        "city": "San Diego",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ec444d06e843b644ca",
+      "title": "Austin City Limits Music Festival Weekend 2 2026",
+      "starts_at": "2026-10-09T17:00:00Z",
+      "ends_at": "2026-10-11T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "zilker-park",
+        "name": "Zilker Park",
+        "city": "Austin",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "lorde",
+          "name": "Lorde",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/6715369/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Austin City Limits Music Festival Weekend 2 2026 @ Zilker Park",
+        "series_id": "2612884"
+      }
+    },
+    {
+      "id": "6ad6f3e9444d06e843b64494",
+      "title": "Charli XCX @ State Farm Arena",
+      "starts_at": "2026-10-06T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Atlanta",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "state-farm-arena",
+        "name": "State Farm Arena",
+        "city": "Atlanta",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ec444d06e843b644cc",
+      "title": "Austin City Limits Music Festival Weekend 1 2026",
+      "starts_at": "2026-10-02T17:00:00Z",
+      "ends_at": "2026-10-04T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "zilker-park",
+        "name": "Zilker Park",
+        "city": "Austin",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "lorde",
+          "name": "Lorde",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/6715369/card_avatar",
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Austin City Limits Music Festival Weekend 1 2026 @ Zilker Park",
+        "series_id": "3444049"
+      }
+    },
+    {
+      "id": "6ad6f3e9444d06e843b64496",
+      "title": "Charli XCX @ Capital One Arena",
+      "starts_at": "2026-09-28T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Washington",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "capital-one-arena",
+        "name": "Capital One Arena",
+        "city": "Washington",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e9444d06e843b64498",
+      "title": "Charli XCX @ TD Garden",
+      "starts_at": "2026-09-24T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Boston",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "td-garden",
+        "name": "TD Garden",
+        "city": "Boston",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e9444d06e843b6449a",
+      "title": "Charli XCX @ Scotiabank Arena",
+      "starts_at": "2026-09-21T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Toronto",
+        "country": "Canada"
+      },
+      "venue": {
+        "slug": "scotiabank-arena",
+        "name": "Scotiabank Arena",
+        "city": "Toronto",
+        "country": "Canada"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "underscores-us",
+          "name": "underscores (US)",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e9444d06e843b6449c",
+      "title": "Charli XCX @ Barclays Center",
+      "starts_at": "2026-09-15T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Brooklyn",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "barclays-center",
+        "name": "Barclays Center",
+        "city": "Brooklyn",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3e9444d06e843b6449d",
+      "title": "Charli XCX @ Barclays Center",
+      "starts_at": "2026-09-14T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Brooklyn",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "barclays-center",
+        "name": "Barclays Center",
+        "city": "Brooklyn",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ea444d06e843b6449f",
+      "title": "Charli XCX @ Xfinity Mobile Arena",
+      "starts_at": "2026-09-11T20:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Philadelphia",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "xfinity-mobile-arena",
+        "name": "Xfinity Mobile Arena",
+        "city": "Philadelphia",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-underscores",
+          "name": "The Underscores",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ea444d06e843b644a1",
+      "title": "Charli XCX @ Grammy Museum La Live",
+      "starts_at": "2026-09-04T19:30:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Los Angeles (LA)",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "grammy-museum-la-live",
+        "name": "Grammy Museum La Live",
+        "city": "Los Angeles (LA)",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ec444d06e843b644cf",
+      "title": "Reading Festival 2026",
+      "starts_at": "2026-08-29T11:00:00Z",
+      "ends_at": "2026-08-30T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "richfield-avenue",
+        "name": "Richfield Avenue",
+        "city": "Reading",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "raye",
+          "name": "Raye",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "sombr",
+          "name": "sombr",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kasabian",
+          "name": "Kasabian",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "fontaines-d-c",
+          "name": "Fontaines D.C.",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "skepta",
+          "name": "Skepta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "chase-status",
+          "name": "Chase & Status",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "geese",
+          "name": "Geese",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "jade",
+          "name": "Jade",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kneecap",
+          "name": "kneecap",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "josh-baker",
+          "name": "Josh Baker",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kettama",
+          "name": "Kettama",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "skye-newman",
+          "name": "Skye Newman",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "cardinals",
+          "name": "Cardinals",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "keo",
+          "name": "Keo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "cruz-beckham",
+          "name": "Cruz Beckham",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "tooth-band",
+          "name": "Tooth (Band)",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Reading Festival 2026 @ Richfield Avenue",
+        "series_id": "57"
+      }
+    },
+    {
+      "id": "6ad6f3ec444d06e843b644d2",
+      "title": "Leeds Festival 2026",
+      "starts_at": "2026-08-27T11:00:00Z",
+      "ends_at": "2026-08-30T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "bramham-park",
+        "name": "Bramham Park",
+        "city": "Leeds",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "florence-the-machine",
+          "name": "Florence + The Machine",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "raye",
+          "name": "Raye",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "sombr",
+          "name": "sombr",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kasabian",
+          "name": "Kasabian",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "fontaines-d-c",
+          "name": "Fontaines D.C.",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "skepta",
+          "name": "Skepta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "chase-status",
+          "name": "Chase & Status",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "declan-mckenna",
+          "name": "Declan McKenna",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "role-model",
+          "name": "Role Model",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "geese",
+          "name": "Geese",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "slayyyter",
+          "name": "Slayyyter",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "jade",
+          "name": "Jade",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kneecap",
+          "name": "kneecap",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "bar-italia",
+          "name": "bar italia",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "josh-baker",
+          "name": "Josh Baker",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kettama",
+          "name": "Kettama",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "skye-newman",
+          "name": "Skye Newman",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "hamdi",
+          "name": "Hamdi",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "4am-kru",
+          "name": "4am Kru",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "gurriers",
+          "name": "Gurriers",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "cardinals",
+          "name": "Cardinals",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "say-now",
+          "name": "Say Now",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "keo",
+          "name": "Keo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "lens",
+          "name": "Lens",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "violet-grohl",
+          "name": "Violet Grohl",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "untitled",
+          "name": "Untitled",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "cruz-beckham",
+          "name": "Cruz Beckham",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "tooth-band",
+          "name": "Tooth (Band)",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Leeds Festival 2026 @ Bramham Park",
+        "series_id": "58"
+      }
+    },
+    {
+      "id": "6ad6f3ec444d06e843b644d4",
+      "title": "Reading Festival 2026",
+      "starts_at": "2026-08-27T09:30:00Z",
+      "ends_at": "2026-08-30T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "richfield-avenue",
+        "name": "Richfield Avenue",
+        "city": "Reading",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "adela",
+          "name": "Adéla",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/10383204/card_avatar",
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "florence-the-machine",
+          "name": "Florence + The Machine",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "men-i-trust",
+          "name": "Men I Trust",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "raye",
+          "name": "Raye",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "sombr",
+          "name": "sombr",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "fontaines-d-c",
+          "name": "Fontaines D.C.",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "skepta",
+          "name": "Skepta",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "chase-status",
+          "name": "Chase & Status",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "declan-mckenna",
+          "name": "Declan McKenna",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "loyle-carner",
+          "name": "Loyle Carner",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "geese",
+          "name": "Geese",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "slayyyter",
+          "name": "Slayyyter",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "jade",
+          "name": "Jade",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kneecap",
+          "name": "kneecap",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "bar-italia",
+          "name": "bar italia",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "josh-baker",
+          "name": "Josh Baker",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "kettama",
+          "name": "Kettama",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "skye-newman",
+          "name": "Skye Newman",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "hamdi",
+          "name": "Hamdi",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "say-now",
+          "name": "Say Now",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "chloe-qisha",
+          "name": "Chloe Qisha",
+          "image": null,
+          "genres": [
+            "rock",
+            "indie_alternative",
+            "pop",
+            "electronic",
+            "folk_blues",
+            "funk_soul",
+            "r_and_b",
+            "jazz",
+            "country",
+            "hip_hop",
+            "latin",
+            "comedy"
+          ]
+        },
+        {
+          "slug": "keo",
+          "name": "Keo",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "r_and_b",
+            "indie_alternative",
+            "hip_hop",
+            "funk_soul"
+          ]
+        },
+        {
+          "slug": "douvelle19",
+          "name": "Douvelle19",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "violet-grohl",
+          "name": "Violet Grohl",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        },
+        {
+          "slug": "untitled",
+          "name": "Untitled",
+          "image": null,
+          "genres": [
+            "indie_alternative",
+            "folk_blues",
+            "pop",
+            "rock",
+            "funk_soul",
+            "electronic",
+            "r_and_b",
+            "hip_hop"
+          ]
+        }
+      ],
+      "festival": {
+        "name": "Reading Festival 2026 @ Richfield Avenue",
+        "series_id": "57"
+      }
+    },
+    {
+      "id": "6ad6f3ed444d06e843b644d7",
+      "title": "Outside Lands Music Festival 3 Day Pass With Charli Xcx Rufus Du Sol The Strokes And More 2026",
+      "starts_at": "2026-08-07T03:30:00Z",
+      "ends_at": "2026-08-09T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "golden-gate-park",
+        "name": "Golden Gate Park",
+        "city": "",
+        "country": ""
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "Outside Lands Music Festival - 3 Day Pass - with Charli XCX, RUFUS DU SOL, The Strokes and more 2026 @ Golden Gate Park",
+        "series_id": "3799931"
+      }
+    },
+    {
+      "id": "6ad6f3ea444d06e843b644a3",
+      "title": "Charli XCX @ SUPERVINYL",
+      "starts_at": "2026-07-24T11:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Los Angeles (LA)",
+        "country": "US"
+      },
+      "venue": {
+        "slug": "supervinyl",
+        "name": "SUPERVINYL",
+        "city": "Los Angeles (LA)",
+        "country": "US"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ed444d06e843b644da",
+      "title": "Flow Festival 2025",
+      "starts_at": "2025-08-08T20:00:00Z",
+      "ends_at": "2025-08-10T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "suvilahti",
+        "name": "Suvilahti",
+        "city": "Helsinki",
+        "country": "Finland"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "Flow Festival 2025 @ Suvilahti",
+        "series_id": "2826"
+      }
+    },
+    {
+      "id": "6ad6f3ed444d06e843b644dd",
+      "title": "Way Out West Festival 2025",
+      "starts_at": "2025-08-07T00:00:00Z",
+      "ends_at": "2025-08-09T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "slottsskogen",
+        "name": "Slottsskogen",
+        "city": "",
+        "country": ""
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "Way Out West Festival 2025 @ Slottsskogen",
+        "series_id": "44"
+      }
+    },
+    {
+      "id": "6ad6f3ed444d06e843b644e3",
+      "title": "Yafestivalen 2025",
+      "starts_at": "2025-08-06T00:00:00Z",
+      "ends_at": "2025-08-09T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "tyenparken",
+        "name": "Tøyenparken",
+        "city": "Oslo",
+        "country": "Norway"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "Øyafestivalen 2025 @ Tøyenparken",
+        "series_id": "1450"
+      }
+    },
+    {
+      "id": "6ad6f3ed444d06e843b644e0",
+      "title": "Sziget Festival 2025",
+      "starts_at": "2025-08-06T00:00:00Z",
+      "ends_at": "2025-08-11T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "obuda-island",
+        "name": "Óbuda Island",
+        "city": "Budapest",
+        "country": "Hungary"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "Sziget Festival 2025 @ Óbuda Island",
+        "series_id": "608"
+      }
+    },
+    {
+      "id": "6ad6f3ed444d06e843b644e6",
+      "title": "Glastonbury Festival 2025",
+      "starts_at": "2025-06-25T00:00:00Z",
+      "ends_at": "2025-06-29T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "worthy-farm",
+        "name": "Worthy Farm",
+        "city": "Pilton",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "Glastonbury Festival 2025 @ Worthy Farm",
+        "series_id": "585"
+      }
+    },
+    {
+      "id": "6ad6f3ea444d06e843b644a5",
+      "title": "Charli XCX @ Ormeau Park",
+      "starts_at": "2025-06-18T18:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Belfast",
+        "country": "UK"
+      },
+      "venue": {
+        "slug": "ormeau-park",
+        "name": "Ormeau Park",
+        "city": "Belfast",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-japanese-house",
+          "name": "The Japanese House",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ea444d06e843b644a7",
+      "title": "Charli XCX @ Malahide Castle",
+      "starts_at": "2025-06-17T17:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": {
+        "city": "Dublin",
+        "country": "Ireland"
+      },
+      "venue": {
+        "slug": "malahide-castle",
+        "name": "Malahide Castle",
+        "city": "Dublin",
+        "country": "Ireland"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        },
+        {
+          "slug": "the-japanese-house",
+          "name": "The Japanese House",
+          "image": null,
+          "genres": [
+            "electronic",
+            "pop",
+            "rock",
+            "indie_alternative",
+            "funk_soul"
+          ]
+        }
+      ],
+      "festival": null
+    },
+    {
+      "id": "6ad6f3ed444d06e843b644e9",
+      "title": "Parklife Festival 2025",
+      "starts_at": "2025-06-14T12:00:00Z",
+      "ends_at": "2025-06-15T00:00:00Z",
+      "event_type": "FestivalInstance",
+      "location": null,
+      "venue": {
+        "slug": "heaton-park",
+        "name": "Heaton Park",
+        "city": "Manchester",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "Parklife Festival 2025 @ Heaton Park",
+        "series_id": "346"
+      }
+    },
+    {
+      "id": "6ad6f3ee444d06e843b644ed",
+      "title": "Charli XCX LIDO Festival: Charli xcx 2025",
+      "starts_at": "2025-06-14T00:00:00Z",
+      "ends_at": null,
+      "event_type": "Concert",
+      "location": null,
+      "venue": {
+        "slug": "victoria-park",
+        "name": "Victoria Park",
+        "city": "London",
+        "country": "UK"
+      },
+      "artists": [
+        {
+          "slug": "charli-xcx",
+          "name": "Charli XCX",
+          "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+          "genres": []
+        }
+      ],
+      "festival": {
+        "name": "LIDO Festival: Charli xcx 2025 @ Victoria Park",
+        "series_id": "3733914"
+      }
+    }
+  ],
+  "total": 916,
+  "next_cursor": {
+    "date": "2025-06-14T00:00:00+00:00",
+    "id": "6ad6f3ee444d06e843b644ed"
+  },
+  "genre": null,
+  "following_count": null
+}

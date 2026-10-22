@@ -1,0 +1,36 @@
+{
+  "id": "6ad6f3e8444d06e843b64472",
+  "title": "Charli XCX @ Desert Diamond Arena",
+  "starts_at": "2026-10-22T03:00:00Z",
+  "ends_at": null,
+  "event_type": "Concert",
+  "location": {
+    "city": "Glendale",
+    "country": "US"
+  },
+  "venue": {
+    "slug": "desert-diamond-arena",
+    "name": "Desert Diamond Arena",
+    "city": "Glendale",
+    "country": "US"
+  },
+  "artists": [
+    {
+      "slug": "charli-xcx",
+      "name": "Charli XCX",
+      "image": "https://images.sk-static.com/images/media/profile_images/artists/2274326/card_avatar",
+      "genres": []
+    },
+    {
+      "slug": "the-underscores",
+      "name": "The Underscores",
+      "image": null,
+      "genres": [
+        "electronic",
+        "pop",
+        "rock"
+      ]
+    }
+  ],
+  "festival": null
+}

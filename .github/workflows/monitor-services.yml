@@ -1,0 +1,213 @@
+
+name: Monitor Services
+
+on:
+  schedule:
+    # Run every 10 minutes to help keep the Render API awake
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  monitor-services:
+    name: Monitor GigCrowd Services
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+
+    steps:
+      - name: Check API Health and Wake Render
+        id: api-health
+        continue-on-error: true
+        shell: bash
+        run: |
+          echo "Checking GigCrowd API health..."
+
+          url="https://gigcrowd-api.onrender.com/health"
+          max_attempts=3
+          attempt=1
+          http_code="000"
+          body=""
+
+          while [ "$attempt" -le "$max_attempts" ]; do
+            echo "Health check attempt $attempt/$max_attempts..."
+
+            response=$(curl \
+              --silent \
+              --show-error \
+              --location \
+              --connect-timeout 15 \
+              --max-time 90 \
+              --output /tmp/health-body.txt \
+              --write-out "%{http_code}" \
+              "$url" 2>/dev/null) || true
+
+            http_code="${response:-000}"
+            body=$(cat /tmp/health-body.txt 2>/dev/null || true)
+
+            echo "HTTP Status: $http_code"
+
+            if [ "$http_code" = "200" ]; then
+              echo "API health check passed."
+              echo "Response Body: $body"
+
+              if ! echo "$body" | jq -e . >/dev/null 2>&1; then
+                echo "Warning: Health response is not valid JSON."
+              fi
+
+              break
+            fi
+
+            if [ "$attempt" -lt "$max_attempts" ]; then
+              echo "Health check unsuccessful. Waiting 10 seconds before retry..."
+              sleep 10
+            fi
+
+            attempt=$((attempt + 1))
+          done
+
+          if [ "$http_code" != "200" ]; then
+            echo "::error::API health check failed after $max_attempts attempts. Last HTTP status: $http_code"
+            exit 1
+          fi
+
+      - name: Check Application Homepage
+        id: app-check
+        continue-on-error: true
+        shell: bash
+        run: |
+          echo "Checking GigCrowd application..."
+
+          response=$(curl \
+            --silent \
+            --show-error \
+            --location \
+            --connect-timeout 10 \
+            --max-time 45 \
+            --retry 1 \
+            --retry-delay 5 \
+            --retry-connrefused \
+            --output /tmp/app-body.txt \
+            --write-out "%{http_code}" \
+            https://gigcrowd.vercel.app/pt-BR || true)
+
+          http_code="${response:-000}"
+          body=$(cat /tmp/app-body.txt 2>/dev/null || true)
+
+          echo "HTTP Status: $http_code"
+
+          if [ "$http_code" != "200" ] && [ "$http_code" != "304" ]; then
+            echo "::error::Application check failed with HTTP $http_code"
+            exit 1
+          fi
+
+          if ! echo "$body" | grep -q "GigCrowd"; then
+            echo "Warning: Expected application text was not found."
+          fi
+
+          echo "Application check passed."
+
+      - name: Check API Documentation
+        id: docs-check
+        continue-on-error: true
+        shell: bash
+        run: |
+          echo "Checking API documentation..."
+
+          response=$(curl \
+            --silent \
+            --show-error \
+            --location \
+            --connect-timeout 15 \
+            --max-time 90 \
+            --retry 1 \
+            --retry-delay 5 \
+            --retry-connrefused \
+            --output /dev/null \
+            --write-out "%{http_code}" \
+            https://gigcrowd-api.onrender.com/docs || true)
+
+          http_code="${response:-000}"
+          echo "HTTP Status: $http_code"
+
+          if [ "$http_code" != "200" ] && [ "$http_code" != "304" ]; then
+            echo "::error::API documentation check failed with HTTP $http_code"
+            exit 1
+          fi
+
+          echo "API documentation check passed."
+
+      - name: Check OpenAPI Schema
+        id: schema-check
+        continue-on-error: true
+        shell: bash
+        run: |
+          echo "Checking OpenAPI schema..."
+
+          response=$(curl \
+            --silent \
+            --show-error \
+            --location \
+            --connect-timeout 15 \
+            --max-time 90 \
+            --retry 1 \
+            --retry-delay 5 \
+            --retry-connrefused \
+            --output /tmp/openapi-body.json \
+            --write-out "%{http_code}" \
+            https://gigcrowd-api.onrender.com/openapi.json || true)
+
+          http_code="${response:-000}"
+          body=$(cat /tmp/openapi-body.json 2>/dev/null || true)
+
+          echo "HTTP Status: $http_code"
+
+          if [ "$http_code" != "200" ]; then
+            echo "::error::OpenAPI schema check failed with HTTP $http_code"
+            exit 1
+          fi
+
+          if ! echo "$body" | jq -e '
+            (.openapi | type == "string") and
+            (.info | type == "object") and
+            (.paths | type == "object")
+          ' >/dev/null; then
+            echo "::error::OpenAPI schema is missing required fields or is invalid JSON."
+            exit 1
+          fi
+
+          echo "OpenAPI schema check passed."
+
+      - name: Report Service Status
+        if: always()
+        shell: bash
+        env:
+          API_STATUS: ${{ steps.api-health.outcome }}
+          APP_STATUS: ${{ steps.app-check.outcome }}
+          DOCS_STATUS: ${{ steps.docs-check.outcome }}
+          SCHEMA_STATUS: ${{ steps.schema-check.outcome }}
+        run: |
+          echo "## GigCrowd Service Status" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Service | Result |" >> "$GITHUB_STEP_SUMMARY"
+          echo "|---|---|" >> "$GITHUB_STEP_SUMMARY"
+          echo "| API health / Render keep-alive | $API_STATUS |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| Application | $APP_STATUS |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| API documentation | $DOCS_STATUS |" >> "$GITHUB_STEP_SUMMARY"
+          echo "| OpenAPI schema | $SCHEMA_STATUS |" >> "$GITHUB_STEP_SUMMARY"
+
+          echo "API health: $API_STATUS"
+          echo "Application: $APP_STATUS"
+          echo "API documentation: $DOCS_STATUS"
+          echo "OpenAPI schema: $SCHEMA_STATUS"
+
+          if [ "$API_STATUS" != "success" ] || \
+             [ "$APP_STATUS" != "success" ] || \
+             [ "$DOCS_STATUS" != "success" ] || \
+             [ "$SCHEMA_STATUS" != "success" ]; then
+            echo "::error::One or more service checks failed."
+            exit 1
+          fi
+
+          echo "All service checks passed."
