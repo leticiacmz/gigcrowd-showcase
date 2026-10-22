@@ -3,8 +3,7 @@ name: Monitor Services
 
 on:
   schedule:
-    # Run every 10 minutes to help keep the Render API awake
-    - cron: '*/10 * * * *'
+    - cron: '3/10 * * * *'
   workflow_dispatch:
 
 permissions:
